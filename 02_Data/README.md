@@ -65,7 +65,4 @@ Before analysis, the dataset will be assessed and cleaned for:
 - Outliers
 - Inconsistent records
 
-The cleaning process will be documented separately in:
-
-```text
-03_Data_Cleaning/
+The cleaning process will be documented separately
